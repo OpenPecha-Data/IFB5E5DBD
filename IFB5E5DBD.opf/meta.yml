@@ -1,0 +1,91 @@
+id: IFB5E5DBD
+ocr_import_info:
+  timestamp: '2023-10-07T14:08:05.346880+00:00'
+  batch_id: batch-5f6e
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharmakyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-10-10 17:51:31.946292+00:00
+last_modified: 2023-10-10 17:51:31.946297+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W23430
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW23430
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན།
+  languages:
+  - bo
+  author: པཎ་ཆེན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན།
+statistics:
+  ocr_word_mean_confidence_index: 0.9792676362473514
+  ocr_word_median_confidence_index: 0.99998176
+bases:
+  I2765:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2765
+      total_pages: 1018
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I2765.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99979126
+      ocr_word_mean_confidence_index: 0.9683447255663444
+  I1637:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1637
+      total_pages: 950
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1637.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999901
+      ocr_word_mean_confidence_index: 0.9815256545761989
+  I1638:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1638
+      total_pages: 891
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1638.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999827
+      ocr_word_mean_confidence_index: 0.9814831775265291
+  I1639:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1639
+      total_pages: 976
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1639.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999943
+      ocr_word_mean_confidence_index: 0.9835738177084856
+  I1640:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1640
+      total_pages: 930
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I1640.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999913
+      ocr_word_mean_confidence_index: 0.9817429166863177
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
